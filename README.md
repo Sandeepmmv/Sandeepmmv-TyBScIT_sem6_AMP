@@ -35,3 +35,5 @@ The Android Intent Class, Using Events and Event Listeners
  b. Programming Security and permissions 
 
 ### [Drive link](https://drive.google.com/drive/folders/1paiM0HnNnK22OJ34pWPdz_vwIKE4jxyS?usp=sharing)
+### All practical zip and apk
+### [MEGA LINK](https://mega.nz/folder/3RBjQbAJ#zDwLm_GaGmJd_3TMI_Gwvw)
